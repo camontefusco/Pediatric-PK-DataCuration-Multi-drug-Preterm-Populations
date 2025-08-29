@@ -1,0 +1,12 @@
+subject_id,age_group_pbpk,drug,cl_l_per_h_per_kg,weight_kg,polypharmacy
+meto_2,adolescent,['metoprolol'],,,False
+sim_1,adolescent,['simvastatin'],,,False
+sim_10,adolescent,['simvastatin'],,,False
+sim_2,adolescent,['simvastatin'],,,False
+sim_3,adolescent,['simvastatin'],,,False
+sim_4,adolescent,['simvastatin'],,,False
+sim_5,adolescent,['simvastatin'],,,False
+sim_6,adolescent,['simvastatin'],,,False
+sim_7,adolescent,['simvastatin'],,,False
+sim_8,adolescent,['simvastatin'],,,False
+sim_9,adolescent,['simvastatin'],,,False

@@ -1,0 +1,14 @@
+subject_id,age_group_pbpk,drug,cl_l_per_h_per_kg,weight_kg,polypharmacy
+g1,preterm_neonate,['gentamicin'],0.036,3.3,False
+morph_1998_1_1,preterm_neonate,['morphine'],0.5519999999999999,,False
+morph_1998_1_2,preterm_neonate,['morphine'],0.5519999999999999,,False
+morph_1998_1_3,preterm_neonate,['morphine'],0.5519999999999999,,False
+morph_1998_1_4,preterm_neonate,['morphine'],0.5519999999999999,,False
+morph_1998_1_5,preterm_neonate,['morphine'],0.5519999999999999,,False
+zid_1,preterm_neonate,['zidovudine'],0.20039999999999997,,False
+zid_2,preterm_neonate,['zidovudine'],0.20039999999999997,,False
+zid_3,preterm_neonate,['zidovudine'],0.20039999999999997,,False
+zid_4,preterm_neonate,['zidovudine'],0.20039999999999997,,False
+zid_5,preterm_neonate,['zidovudine'],0.20039999999999997,,False
+zid_6,preterm_neonate,['zidovudine'],0.20039999999999997,,False
+zid_7,preterm_neonate,['zidovudine'],0.20039999999999997,,False

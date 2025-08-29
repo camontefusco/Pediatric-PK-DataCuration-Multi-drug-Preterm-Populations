@@ -1,0 +1,11 @@
+subject_id,age_group_pbpk,drug,cl_l_per_h_per_kg,weight_kg,polypharmacy
+morph_1998_3_1,infant,['morphine'],1.86,,False
+morph_1998_3_2,infant,['morphine'],1.86,,False
+morph_1998_3_3,infant,['morphine'],1.86,,False
+morph_1998_3_4,infant,['morphine'],1.86,,False
+morph_1998_3_5,infant,['morphine'],1.86,,False
+morph_1998_4_1,infant,['morphine'],2.934,,False
+morph_1998_4_2,infant,['morphine'],2.934,,False
+morph_1998_4_3,infant,['morphine'],2.934,,False
+morph_1998_4_4,infant,['morphine'],2.934,,False
+morph_1998_4_5,infant,['morphine'],2.934,,False
