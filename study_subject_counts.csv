@@ -1,0 +1,9 @@
+study_id,drug,n_subjects
+genta_neonate_2013_subj1,gentamicin,1
+genta_newborn_group_agg,gentamicin,1
+metoprolol_fda_bpca,metoprolol,3
+morph_iv_surgery_1998_agg,morphine,20
+simva_pbpk_children_2019,simvastatin,10
+vet_et_al_2014_agg,midazolam,2
+zidovudine_premature_pair_visit1,zidovudine,7
+zidovudine_premature_pair_visit2,zidovudine,7
