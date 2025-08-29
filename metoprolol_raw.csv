@@ -1,0 +1,4 @@
+study_id,drug,subject_id,age_years,weight_kg,cmin_ng_per_mL,t_half_h,route,aggregated_row,notes,source
+metoprolol_fda_bpca,metoprolol,meto_1,7,,12.2,4.0,oral,True,FDA BPCA summary Cmin values; high variability reported,https://www.fda.gov/files/drugs/published/019962s033-Metoprolol-Clinpharm-BPCA.pdf
+metoprolol_fda_bpca,metoprolol,meto_2,12,,24.6,4.0,oral,True,FDA BPCA summary Cmin values; high variability reported,https://www.fda.gov/files/drugs/published/019962s033-Metoprolol-Clinpharm-BPCA.pdf
+metoprolol_fda_bpca,metoprolol,meto_3,3,,8.5,4.0,oral,True,FDA BPCA summary Cmin values; high variability reported,https://www.fda.gov/files/drugs/published/019962s033-Metoprolol-Clinpharm-BPCA.pdf

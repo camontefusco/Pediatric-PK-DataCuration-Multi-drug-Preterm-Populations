@@ -1,0 +1,15 @@
+study_id,drug,subject_id,visit,age_years,weight_kg,cl_mL_per_min_per_kg,t_half_h,route,aggregated_row,notes,source
+zidovudine_premature_pair_visit1,zidovudine,zid_1,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_1,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit1,zidovudine,zid_2,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_2,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit1,zidovudine,zid_3,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_3,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit1,zidovudine,zid_4,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_4,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit1,zidovudine,zid_5,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_5,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit1,zidovudine,zid_6,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_6,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit1,zidovudine,zid_7,v1,0.01,,2.33,7.3,oral,False,"Preterm neonates - visit1 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/
+zidovudine_premature_pair_visit2,zidovudine,zid_7,v2,0.05,,4.35,4.4,oral,False,"Preterm neonates - visit2 mean CL (paired study, N=7)",https://pubmed.ncbi.nlm.nih.gov/9559787/

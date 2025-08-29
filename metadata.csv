@@ -1,0 +1,7 @@
+study_id,drug,source_file,pathway,elimination,formulation,notes
+genta_neonate_2013_agg,gentamicin,gentamicin_raw.csv,renal,renal,iv,Neonatal clearance
+metoprolol_fda_bpca_agg,metoprolol,metoprolol_raw.csv,CYP2D6 hepatic metabolism,hepatic/renal,oral,Pediatric summary Cmin/Cmax
+vet_et_al_2014_agg,midazolam,midazolam_raw.csv,CYP3A4 hepatic metabolism,hepatic,iv,Critically ill neonates/children
+morph_iv_surgery_1998_agg,morphine,morphine_raw.csv,UGT2B7 hepatic metabolism,hepatic,iv,Postoperative infants
+simva_pbpk_children_2019_agg,simvastatin,simvastatin_raw.csv,hepatic/biliary,hepatic,oral,Children/adolescents PBPK model
+zidovudine_preterm_2005_agg,zidovudine,zidovudine_raw.csv,UGT/renal,hepatic/renal,oral,Preterm neonates
