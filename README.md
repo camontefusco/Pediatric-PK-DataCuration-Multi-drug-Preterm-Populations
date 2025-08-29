@@ -21,6 +21,3 @@ Aggregate and organize pediatric PK data for Voriconazole (CYP2C19), Levetiracet
 - `/data/curated_pediatric_pk.csv`
 - `/data/DATA_DICTIONARY.md`
 - `/analysis/exploratory_analysis.ipynb` with plots for dataset coverage by age, route, and pathway
-
-## EMA Alignment
-Supports **Stage 1**: data aggregation and preparation for pediatric PBPK modeling.
