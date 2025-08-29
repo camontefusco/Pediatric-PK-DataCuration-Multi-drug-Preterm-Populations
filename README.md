@@ -30,18 +30,53 @@ This repository aggregates, harmonizes, and curates pediatric pharmacokinetic (P
 
 ## Data Files
 
-* `/data/raw/metadata.csv`: Metadata for all studies
-* `/data/curated/pediatric_pk_master_harmonized.csv`: Harmonized dataset
-* `/data/curated/pbpk_inputs/`: PBPK-ready tables for single-drug modeling
-* `/data/curated/pbpk_inputs/polypharmacy/`: PBPK-ready polypharmacy input CSVs
+* `/data/raw/`: raw unprocessed
 
-  * `pbpk_polypharmacy_inputs.csv` – all subjects with multiple drugs
-  * `pbpk_polypharmacy_preterm_neonate.csv` – preterm neonates
-  * `pbpk_polypharmacy_term_neonate.csv` – term neonates
-  * `pbpk_polypharmacy_infant.csv` – infants
-  * `pbpk_polypharmacy_child.csv` – children
-  * `pbpk_polypharmacy_adolescent.csv` – adolescents
-* `/data/curated/regulatory_summary/`: Tables summarizing age group, route, and elimination pathway coverage
+  * `/data/raw/metadata.csv`: Metadata for all studies
+  * `/data/raw/gentamicin_raw.csv`: raw unprocessed for Gentamicin
+  * `/data/raw/metoprolol_raw.csv`: raw unprocessed for Metoprolol
+  * `/data/raw/midazolam_raw.csv`: raw unprocessed for Midazolam
+  * `/data/raw/morphine_raw.csv`: raw unprocessed for Morphine
+  * `/data/raw/simvastatin_raw.csv`: raw unprocessed for Simvastatin
+  * `/data/raw/zidovudine_raw.csv`: raw unprocessed for Zidovudine
+
+* `/data/curated/`
+  * `/data/raw/data_dictionary.csv`: Metadata for all studies
+  * `/data/curated/pediatric_pk_master.csv`
+  * `/data/curated/pediatric_pk_master_harmonized.csv`: Harmonized dataset
+
+     * `/data/curated/pbpk_inputs/`: PBPK-ready tables for single-drug modeling
+        * `/data/curated/pbpk_inputs/pbpk_input_adolescent.csv`: PBPK-ready for adolescent
+        * `/data/curated/pbpk_inputs/pbpk_input_child.csv`: PBPK-ready for children
+        * `/data/curated/pbpk_inputs/pbpk_input_infant.csv`: PBPK-ready for infant
+        * `/data/curated/pbpk_inputs/pbpk_input_preterm_neonate.csv`: PBPK-ready for preterm_neonate
+        * `/data/curated/pbpk_inputs/pbpk_input_term_neonate.csv`: PBPK-ready for term_neonate
+        * `/data/curated/pbpk_inputs/pbpk_input_summary.csv`: PBPK-ready summary
+
+           * `/data/curated/pbpk_inputs/polypharmacy/`: PBPK-ready polypharmacy input CSVs
+              * `pbpk_polypharmacy_inputs.csv` – all subjects with multiple drugs
+              * `pbpk_polypharmacy_preterm_neonate.csv` – preterm neonates
+              * `pbpk_polypharmacy_term_neonate.csv` – term neonates
+              * `pbpk_polypharmacy_infant.csv` – infants
+              * `pbpk_polypharmacy_child.csv` – children
+              * `pbpk_polypharmacy_adolescent.csv` – adolescents
+
+      * `/data/curated/regulatory_summary/`: Tables summarizing age group, route, and elimination pathway coverage
+        * `/data/curated/regulatory_summary/age_group_coverage.csv`: Age
+        * `/data/curated/regulatory_summary/pathway_coverage.csv`: Pathway
+        * `/data/curated/regulatory_summary/route_coverage.csv`: Route
+        * `/data/curated/regulatory_summary/study_subject_counts.csv`: Subject counts
+
+## Figure Files
+* `/figures/gentamicin_age_cl.png/`: gentamicin_age_cl
+* `/figures/metoprolol_age_cl.png/`: metoprolol_age_cl
+* `/figures/midazolam_age_cl.png/`: midazolam_age_cl
+* `/figures/morphine_age_cl.png/`: morphine_age_cl
+* `/figures/simvastatin_age_cl.png/`: simvastatin_age_cl
+* `/figures/zidovudine_age_cl.png/`: zidovudine_age_cl
+* `/figures/pathway_coverage.png/`: pathway_coverage
+* `/figures/route_coverage.png/`: route_coverage
+* `/figures/age_group_coverage.png/`: age_group_coverage
 
 ## Usage
 
@@ -60,7 +95,6 @@ This repository aggregates, harmonizes, and curates pediatric pharmacokinetic (P
 
 ## Optional Extensions
 
-* Additional drugs and critically ill populations
 * Extended polypharmacy modeling
 * Integration scripts for PBPK platforms
 
