@@ -4,6 +4,8 @@
 
 This repository aggregates, harmonizes, and curates pediatric pharmacokinetic (PK) data for six model drugs: midazolam, morphine, gentamicin, metoprolol, zidovudine, and simvastatin. The dataset spans neonates, infants, children, adolescents, and adults, and is prepared for PBPK modeling, including polypharmacy scenarios. The repository is designed to support regulatory submissions and EMA pediatric PBPK qualification objectives.
 
+![Banner](banner.png)
+
 ## Folder Structure
 
 ```
