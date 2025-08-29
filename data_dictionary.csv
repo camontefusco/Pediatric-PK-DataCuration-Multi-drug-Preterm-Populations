@@ -1,0 +1,22 @@
+column,dtype,description
+study_id,object,Study identifier (short label)
+drug,object,Drug name
+subject_id,object,Unique subject ID if available
+age_years,float64,"Age in years (float, can be fractional)"
+age_days,float64,"Age in days (optional, numeric)"
+weight_kg,float64,Body weight in kg if available
+cl_l_per_h_per_kg,float64,Clearance normalized to kg (L/h/kg)
+t_half_h,float64,Elimination half-life (hours)
+route,object,"Route of administration (oral, iv, etc.)"
+aggregated_row,bool,True if row represents aggregated group summary expanded into pseudo-patient rows
+notes,object,Notes on how data was derived
+source,object,"Literature or regulatory source (URL, PubMed ID)"
+source_file,object,Origin raw CSV filename
+age_group,object,Reported age group label from study
+cl_ml_per_min_per_kg,float64,Clearance in mL/min/kg
+cl_l_per_h,float64,Clearance in L/h
+cmin_ng_per_ml,float64,Minimum concentration (ng/mL)
+visit,object,Study visit label if multiple per subject
+dose_mg,float64,Dose administered (mg)
+auc_mg_h_per_l,float64,Area under curve (mg*h/L)
+cmax_mg_per_l,float64,Maximum concentration (mg/L)
